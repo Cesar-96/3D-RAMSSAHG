@@ -6,6 +6,7 @@ To Run Code :
 -Using Bash : git clone https://github.com/Cesar-96/3D-RAMSSAHG.git.
 -Open the project using the installed Unity Version
 <video width="320" height="240" controls>
-  <source src="pablo.mkv" type="video/x-matroska">
+  <source src="dosBrazos.mkv" type="video/x-matroska">
+  <source src="dosBrazos.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
